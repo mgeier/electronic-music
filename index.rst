@@ -8,13 +8,7 @@ This is just a placeholder. Hopefully, there is more to come ...
 .. toctree::
    :maxdepth: 2
 
+   history
+   software
+   synthesis
    todo
-
-
-.. Indices and tables
-.. ==================
-.. 
-.. * :ref:`genindex`
-.. * :ref:`modindex`
-.. * :ref:`search`
-
