@@ -50,7 +50,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = 'A Practical Introduction to Electronic Music'
-copyright = '2013, Matthias Geier'
+copyright = '2013-2014, Matthias Geier'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
