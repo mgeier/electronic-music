@@ -28,5 +28,7 @@ a.k.a. Pd, open source software
 
 * FLOSS manual: http://flossmanuals.net/pure-data/
 
+* Video tutorials: https://www.youtube.com/watch?v=rtgGol-I4gA&list=PL12DC9A161D8DC5DC
+
 .. todo:: write more about Pd
 
