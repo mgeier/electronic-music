@@ -31,3 +31,5 @@ http://www.timvets.net/video/grains.php?page=software
 http://puredata.info/downloads/granita-minimalist-granular-synthesis
 
 http://macumbista.net/?page_id=514
+
+http://puredata.hurleur.com/sujet-4763-variable-grain-size-granular-synth
